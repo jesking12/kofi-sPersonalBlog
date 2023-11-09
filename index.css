@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+
+}
+.list{
+    display: inline;
+    margin-left: 30px;
+} 
+#firstLine, #secondLine, #thirdLine{
+    size: 4cm;
+    width: 15cm;
+}
+button{
+    margin-top: 10%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+#main{
+    /* background-color:honeydew; */
+    height: 900%;
+    width: 90%;
+    margin-left: 5%;
+}
+#inside{
+    width: 20%;
+    height: 10%;
+}
